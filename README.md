@@ -14,7 +14,7 @@ ECOMMERCE
 </h1>
 An Ecommerce app built using the MERN stack, Redux.js, Material UI, Node JS and MongoDB.
 <br/>
-The app also implements an email verification system for users registering using an email and password. Stripe payment gateway is implemented to provide payment options, and the app also includes an admin panel to keep track of all products, orders and users. This is also a PWA
+The app also implements an email verification system for users registering using an email and password. Stripe payment gateway is implemented to provide payment options, and the app also includes an admin panel to keep track of all products, orders and users. This is also a SPA
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ _P.S: Do star this repo if you like it or find it useful :)_
 
 ## Info
 
--   **Ecommerce** is an E-commerce PWA.
+-   **Ecommerce** is an E-commerce SPA.
 -   It has been built from scratch using the MERN stack with the client side using React JS and Redux store as well. Material UI is used along with some custom styling.
  _There are loads of features throughout the app._
 -   The client side uses React hooks along with Redux.js and redux-thunk middleware
@@ -63,7 +63,7 @@ _P.S: Do star this repo if you like it or find it useful :)_
 -   The app has been designed and built in a manner that makes it very easy to order items once they are added to the cart.
 -   There is a status bar implemented that can help keep the user informed about the number of steps left in placing an order.
 
-### Responsive Design & PWA
+### Responsive Design & SPA
 
 -   The latest version of Material UI is used along with custom stylesheets
 -   Additional styling is included to format various smaller elements throughout the app.
